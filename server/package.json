@@ -56,7 +56,7 @@
       "postgres": "^1.0.2",
       "reflect-metadata": "^0.1.10",
       "ts-node-dev": "^1.0.0-pre.63",
-      "typeorm": "0.2.26"
+      "typeorm": "0.3.17"
    },
    "devDependencies": {
       "@tsconfig/recommended": "^1.0.1",
